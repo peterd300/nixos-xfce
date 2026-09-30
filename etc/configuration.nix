@@ -112,11 +112,17 @@
   net-tools
   kitty
   kitty-themes
-  
+  bat
+  micro
+  trash-cli
+  tree
+   
   # X11 programs
   geany
   feh
   wallust
+  fish
+ 
   
   # XFCE4 add-ons
   xfce4-whiskermenu-plugin
