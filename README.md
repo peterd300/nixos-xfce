@@ -1,2 +1,4 @@
-# nixos-xfce
-NixOS XFCE
+
+First attempt for me, nixos and .config
+
+
