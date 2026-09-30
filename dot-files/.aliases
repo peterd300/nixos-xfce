@@ -106,12 +106,6 @@ alias quit='exit'
 #alias ls='ls --color=auto'
 #alias ll='ls -al --color=auto'
 
-# xbps aliases
-alias xi='sudo xbps-install -Sy'
-alias xu='sudo xbps-install -Su'
-alias xq='sudo xbps-query -Rs'
-
-
 # Git aliases
 alias gp="git push -u origin main"
 alias gsave="git commit -m 'save'"
