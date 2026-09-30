@@ -105,30 +105,41 @@
   #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
   
   # some cli utils
-  wget
+  
+  bat
+  btop
   fastfetch
+  fzf
   git
-  mlocate
-  net-tools
+  htop
   kitty
   kitty-themes
-  bat
   micro
+  mlocate
+  net-tools
+  nnn
+  ripgrep
   trash-cli
   tree
+  wget
+
+  
    
   # X11 programs
   geany
   feh
   wallust
   fish
+  copyq
  
+   
   
   # XFCE4 add-ons
-  xfce4-whiskermenu-plugin
-  xfce4-pulseaudio-plugin
   xfce4-icon-theme
   xfce4-notifyd
+  xfce4-pulseaudio-plugin
+  xfce4-whiskermenu-plugin
+
   
   # icons and themes
   papirus-icon-theme
